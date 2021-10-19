@@ -1,5 +1,6 @@
-a=float(input("my 1st no :"))
-b=int(input("my 2nd no :"))
+a=5
+
 c=3.14*a*a
 print("total is =",c) #print calcualate of area.
 
+ 
