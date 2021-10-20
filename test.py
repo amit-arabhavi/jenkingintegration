@@ -8,4 +8,3 @@ thistuple =("ankush","ajit","arun")
 
  
 
-#print(len(list))
